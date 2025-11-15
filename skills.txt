@@ -1,0 +1,21 @@
+Python
+Java
+JavaScript
+C++
+SQL
+HTML
+CSS
+Node.js
+React
+Angular
+Django
+Flask
+Machine Learning
+Data Analysis
+AWS
+Git
+REST
+Docker
+Kubernetes
+Communication
+Project Management
